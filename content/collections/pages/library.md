@@ -1,9 +1,9 @@
 ---
-id: home
+id: be09e35b-bd51-4452-bbf1-4213bd774bb3
 blueprint: pages
-title: Home
+title: Library
 author: e3c28693-db64-4e8c-9879-1e382ad2d6d2
-seotamic_title: custom
+seotamic_title: title
 seotamic_title_prepend: true
 seotamic_title_append: true
 seotamic_meta_description: empty
@@ -12,7 +12,6 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: e3c28693-db64-4e8c-9879-1e382ad2d6d2
-updated_at: 1640358089
-seotamic_custom_title: 'Game Gear Club | The Home for Everything Game Gear'
+updated_at: 1640358059
 ---
-Welcome to your new Statamic website.
+Library
