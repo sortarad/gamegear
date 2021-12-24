@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d1d31388e11a68b7aaa59809c3344a95",
+    "content-hash": "e57dc7a20be6bbafe94a71e00a6219bb",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -1693,6 +1693,62 @@
                 }
             ],
             "time": "2021-04-26T11:24:25+00:00"
+        },
+        {
+            "name": "goellner/table-on-steroids",
+            "version": "1.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/goellner/statamic-3-table-on-steroids.git",
+                "reference": "a8fe4ab2a3cd51ecc5274b0fdfc05547de9d369b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/goellner/statamic-3-table-on-steroids/zipball/a8fe4ab2a3cd51ecc5274b0fdfc05547de9d369b",
+                "reference": "a8fe4ab2a3cd51ecc5274b0fdfc05547de9d369b",
+                "shasum": ""
+            },
+            "require": {
+                "statamic/cms": "^3.0"
+            },
+            "type": "statamic-addon",
+            "extra": {
+                "statamic": {
+                    "name": "Table On Steroids",
+                    "description": "Table On Steroids addon"
+                },
+                "laravel": {
+                    "providers": [
+                        "Goellner\\TableOnSteroids\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Goellner\\TableOnSteroids\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "authors": [
+                {
+                    "name": "Stefan Göllner",
+                    "email": "wassup@goellner.io",
+                    "homepage": "https://goellner.dev",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Adds a CSV parser for the table fieldtype",
+            "homepage": "https://github.com/goellner/statamic-3-table-on-steroids",
+            "keywords": [
+                "fieldtype",
+                "statamic",
+                "uuid"
+            ],
+            "support": {
+                "issues": "https://github.com/goellner/statamic-3-table-on-steroids/issues",
+                "source": "https://github.com/goellner/statamic-3-table-on-steroids/tree/1.1.0"
+            },
+            "time": "2021-02-11T10:25:54+00:00"
         },
         {
             "name": "graham-campbell/result-type",
