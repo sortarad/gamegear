@@ -6,7 +6,7 @@
         <thead>
           <tr>
             {{ cells }}
-              <th>{{ value|markdown }}</th>
+              <th>{{ value }}</th>
             {{ /cells }}
           </tr>
         </thead>
@@ -18,7 +18,7 @@
         {{ /if }}
           <tr>
             {{ cells }}
-              <td>{{ value|markdown }}</td>
+              <td>{{ value }}</td>
             {{ /cells }}
           </tr>
         {{ if last }}
