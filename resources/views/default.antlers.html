@@ -2,17 +2,17 @@
 
 <table style="width: 100%;table-layout: fixed;">
     {{ game_table }}
-      {{ if first && first_row_headers }}
+      {{ if first }}
         <thead>
           <tr>
             {{ cells }}
-              <th>{{ value }}</th>
+              <th style="text-align: left;"><h3>{{ value }}</h3></th>
             {{ /cells }}
           </tr>
         </thead>
         <tbody>
       {{ /if }}
-      {{ if !first && first_row_headers || !first_row_headers }}
+      {{ if !first }}
         {{ if first }}
           <tbody>
         {{ /if }}
