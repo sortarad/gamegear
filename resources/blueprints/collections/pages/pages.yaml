@@ -38,11 +38,12 @@ sections:
           enable_input_rules: true
           enable_paste_rules: true
           antlers: false
-          display: Bard
+          display: Content
           type: bard
           icon: bard
           listable: hidden
           instructions_position: above
+          container: assets
       -
         handle: game_table
         field:

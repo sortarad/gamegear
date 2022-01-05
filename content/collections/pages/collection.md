@@ -12,7 +12,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: e3c28693-db64-4e8c-9879-1e382ad2d6d2
-updated_at: 1640999269
+updated_at: 1641345596
 table:
   -
     cells:
@@ -46,7 +46,7 @@ content:
     content:
       -
         type: text
-        text: 66/234
+        text: 90/234
   -
     type: paragraph
     content:
@@ -378,4 +378,134 @@ content:
       -
         type: text
         text: 'Super Off Road'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Star Wars'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'T2: The Arcade Game'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Battleship: The Classic Naval Combat Game'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Beavis and Butt-Head'
+      -
+        type: hard_break
+        marks:
+          -
+            type: italic
+      -
+        type: text
+        text: 'NBA Action Starring David Robinson'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Pinball Dreams'
+      -
+        type: hard_break
+      -
+        type: text
+        text: Klax
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Defenders of Oasis'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'VR Troopers'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'The Adventures of Batman & Robin'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Batman Returns'
+      -
+        type: hard_break
+      -
+        type: text
+        text: Slider
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Joe Montana Football'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Chuck Rock'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'X-Men: Gamesmaster''s Legacy'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Jurassic Park'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Mortal Kombat'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Caesars Palace'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Ms. Pac-Man'
+      -
+        type: hard_break
+      -
+        type: text
+        text: Pac-Attack
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Asterix and the Great Rescue'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'Greendog: The Beached Surfer Dude!'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'PGA Tour Golf II'
+      -
+        type: hard_break
+      -
+        type: text
+        text: 'James Pond II: Codename: Robocod'
+      -
+        type: hard_break
+        marks:
+          -
+            type: italic
+  -
+    type: paragraph
 ---
