@@ -12,7 +12,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: e3c28693-db64-4e8c-9879-1e382ad2d6d2
-updated_at: 1640999338
+updated_at: 1641347249
 content:
   -
     type: heading
@@ -22,4 +22,40 @@ content:
       -
         type: text
         text: Library
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: Games
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: /library/na
+              rel: null
+              target: null
+              title: null
+        text: 'List of North American Game Gear Games'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        marks:
+          -
+            type: link
+            attrs:
+              href: /library/jp
+              rel: null
+              target: null
+              title: null
+        text: 'List of Japanese Game Gear Games'
 ---
