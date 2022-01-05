@@ -1,0 +1,29 @@
+{{ content }}
+
+<table style="width: 100%;table-layout: fixed;">
+    {{ game_table }}
+      {{ if first }}
+        <thead>
+          <tr>
+            {{ cells }}
+              <th style="text-align: left;"><h3>{{ value }}</h3></th>
+            {{ /cells }}
+          </tr>
+        </thead>
+        <tbody>
+      {{ /if }}
+      {{ if !first }}
+        {{ if first }}
+          <tbody>
+        {{ /if }}
+          <tr>
+            {{ cells }}
+              <td>{{ value }}</td>
+            {{ /cells }}
+          </tr>
+        {{ if last }}
+          </tbody>
+        {{ /if }}
+      {{ /if }}
+    {{ /game_table }}
+  </table>
