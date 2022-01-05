@@ -1,7 +1,7 @@
 ---
 id: e8894c37-fee8-4f3b-a6d0-c180bff55187
 blueprint: pages
-title: 'North American Releases'
+title: 'North American'
 table_on_steroids:
   -
     cells:
@@ -1657,7 +1657,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: e3c28693-db64-4e8c-9879-1e382ad2d6d2
-updated_at: 1641406440
+updated_at: 1641418956
 table:
   -
     cells:
@@ -4486,8 +4486,4 @@ content:
     type: heading
     attrs:
       level: 1
-    content:
-      -
-        type: text
-        text: 'North American'
 ---

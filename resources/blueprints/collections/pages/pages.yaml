@@ -75,6 +75,18 @@ sections:
           max_items: 1
           listable: false
           localizable: true
+      -
+        handle: featured_image
+        field:
+          mode: list
+          restrict: false
+          allow_uploads: true
+          show_filename: true
+          display: 'Featured Image'
+          type: assets
+          icon: assets
+          listable: hidden
+          instructions_position: above
   SEO:
     display: SEO
     fields:

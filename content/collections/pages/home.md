@@ -1,7 +1,7 @@
 ---
 id: home
 blueprint: pages
-title: Home
+title: Welcome
 author: e3c28693-db64-4e8c-9879-1e382ad2d6d2
 seotamic_title: custom
 seotamic_title_prepend: true
@@ -12,35 +12,20 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: e3c28693-db64-4e8c-9879-1e382ad2d6d2
-updated_at: 1641406401
+updated_at: 1641420115
 seotamic_custom_title: 'Game Gear Club | The Home for Everything Game Gear'
 template: default
+featured_image:
+  - images/ggman_confused.png
 content:
   -
     type: heading
     attrs:
-      level: 1
+      level: 2
     content:
       -
         type: text
-        text: Welcome
-  -
-    type: paragraph
-    content:
-      -
-        type: text
-        marks:
-          -
-            type: bold
-        text: 'You are now entering the Game Gear Club system. '
-  -
-    type: heading
-    attrs:
-      level: 3
-    content:
-      -
-        type: text
-        text: 'Your first question is probably what''s a Game Gear? '
+        text: 'What''s a Game Gear? '
   -
     type: paragraph
     content:
