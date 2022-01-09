@@ -12,13 +12,47 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: e3c28693-db64-4e8c-9879-1e382ad2d6d2
-updated_at: 1641418927
+updated_at: 1641761548
 template: default
 content:
+  -
+    type: heading
+    attrs:
+      level: 2
+    content:
+      -
+        type: text
+        text: 'My Game Gear Journey'
+  -
+    type: horizontal_rule
   -
     type: paragraph
     content:
       -
         type: text
-        text: 'This site was created to help put together all the collective knowledge about the Game Gear. While the Game Gear community is smaller, it''s passion for the system is still going over 30 years later. '
+        text: 'I never had a Game Gear growing up. The End. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Just kidding. '
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'It''s true I never had a Game Gear growing up. My trusty Game Boy was was my constant companion. However, my Cousin Ashley did have one and I played it whenever I went to her house. It always seemed so advanced. From it''s large size to it''s full color screen I was really impressed.'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'Fast forward about 8 years and I was in my local game shop and they had a sign up that they were no longer going to be accepting trade ins for Game Gears. There they had a Blue Game Gear which I had never seen before. My brother bought it for me and it rekindled my love for the Game Gear. Over the next couple years I slowly started my collection up again. However, right before I left for college I had the bright idea to sell all my video games (including my Game Gear collection).'
+  -
+    type: paragraph
+    content:
+      -
+        type: text
+        text: 'That brings us to today. I''m chronically bored and the release of the new Analogue Pocket reminded me that the Game Gear existed and I decided that this was the year I would finally get a complete collection. This site was created as a place to store all the knowledge that I found out about the Sega Game Gear.'
 ---
