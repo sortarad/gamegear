@@ -12,7 +12,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: e3c28693-db64-4e8c-9879-1e382ad2d6d2
-updated_at: 1641418947
+updated_at: 1641760600
 template: default
 content:
   -
@@ -28,6 +28,14 @@ content:
     content:
       -
         type: text
+        text: 'Below are lists of the various games released for the Game Gear in different regions.'
+  -
+    type: horizontal_rule
+  -
+    type: paragraph
+    content:
+      -
+        type: text
         marks:
           -
             type: link
@@ -36,7 +44,7 @@ content:
               rel: null
               target: null
               title: null
-        text: 'List of North American Game Gear Games'
+        text: 'North American Games'
   -
     type: paragraph
     content:
@@ -50,5 +58,5 @@ content:
               rel: null
               target: null
               title: null
-        text: 'List of Japanese Game Gear Games'
+        text: 'Japanese Games'
 ---

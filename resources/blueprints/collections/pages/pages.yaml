@@ -27,6 +27,7 @@ sections:
             - anchor
             - image
             - table
+            - horizontalrule
           save_html: false
           toolbar_mode: fixed
           link_noopener: false
