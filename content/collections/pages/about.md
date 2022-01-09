@@ -12,7 +12,7 @@ seotamic_open_graph_description: general
 seotamic_twitter_title: title
 seotamic_twitter_description: general
 updated_by: e3c28693-db64-4e8c-9879-1e382ad2d6d2
-updated_at: 1641761548
+updated_at: 1641761747
 template: default
 content:
   -
@@ -48,7 +48,7 @@ content:
     content:
       -
         type: text
-        text: 'Fast forward about 8 years and I was in my local game shop and they had a sign up that they were no longer going to be accepting trade ins for Game Gears. There they had a Blue Game Gear which I had never seen before. My brother bought it for me and it rekindled my love for the Game Gear. Over the next couple years I slowly started my collection up again. However, right before I left for college I had the bright idea to sell all my video games (including my Game Gear collection).'
+        text: 'Fast forward about 8 years and I was in my local game shop and they had a sign up that they were no longer going to be accepting trade ins for Game Gears. They had their remaining inventory out for sale and I spied a Blue Game Gear which I had never seen before. My brother bought it for me and it rekindled my love for the Game Gear. Over the next couple years I slowly started my collection up again. However, right before I left for college I had the bright idea to sell all my video games (including my Game Gear collection).'
   -
     type: paragraph
     content:
